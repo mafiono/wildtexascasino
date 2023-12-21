@@ -17,7 +17,7 @@
     "vue-instantsearch": "^4.4.2"
   },
   "devDependencies": {
-    "@intlify/vue-i18n-extensions": "^3.0.0",
+    "@intlify/vue-i18n-extensions": "^5.0.0",
     "@vitejs/plugin-vue": "^3.0.0",
     "backo2": "^1.0.2",
     "component-bind": "^1.0.0",
